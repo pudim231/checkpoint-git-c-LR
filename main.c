@@ -10,5 +10,7 @@ int main(){
     printf("19 anos");
     printf("\n");
     printf("Rubens Henrique");
+    printf("\n");
+    printf("18 anos");
     return 0;
 };
