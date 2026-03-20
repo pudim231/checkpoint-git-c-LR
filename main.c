@@ -5,12 +5,12 @@ int main(){
     printf("\n");
     printf("Idade: 17 anos");
     printf("\n");
-    printf("Bruno Yudi");
+    printf("Nome: Bruno Yudi");
     printf("\n");
-    printf("19 anos");
+    printf("Idade: 19 anos");
     printf("\n");
-    printf("Rubens Henrique");
+    printf("Nome: Rubens Henrique");
     printf("\n");
-    printf("18 anos");
+    printf("Idade: 18 anos");
     return 0;
 };
